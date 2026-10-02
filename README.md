@@ -1,3 +1,5 @@
+# Forked for private use, better to use upstream version
+
 # The extended Fate game system for FoundryVTT
 
 <p align="center">
