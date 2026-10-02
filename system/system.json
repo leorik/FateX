@@ -1,12 +1,15 @@
 {
-    "id": "fatex",
-    "title": "FateX - Fate Extended",
-    "description": "An extended implementation of Fate and its derivative systems",
-    "version": "1.5.4",
+    "id": "fatex-leo",
+    "title": "FateX - Fate Extended (Leo fork)",
+    "description": "An extended implementation of Fate and its derivative systems. Forked for private use",
+    "version": "1.5.5",
     "authors": [
         {
             "name": "Patrick Bauer",
             "discord": "Daddi_"
+        },
+        {
+            "name": "Sergie Kardashov"
         }
     ],
     "scripts": ["system.js"],
@@ -68,7 +71,7 @@
         "verified": "14"
     },
     "socket": true,
-    "url": "https://github.com/anvil-vtt/FateX",
-    "manifest": "https://github.com/anvil-vtt/FateX/releases/latest/download/system.json",
-    "download": "https://github.com/anvil-vtt/FateX/releases/latest/download/fatex.zip"
+    "url": "https://github.com/leorik/FateX",
+    "manifest": "https://github.com/leorik/FateX/releases/latest/download/system.json",
+    "download": "https://github.com/leorik/FateX/releases/latest/download/fatex.zip"
 }
